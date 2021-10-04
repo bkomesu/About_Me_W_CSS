@@ -22,7 +22,13 @@ h2 {
 }
 
 a {
-  margin-left: 5%;
+  margin-left: 3%;
+  font-weight: bolder;
+  float: right;
+}
+
+div a {
+  margin-right: 5%;
 }
 
 .par {
